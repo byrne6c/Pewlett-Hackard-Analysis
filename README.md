@@ -15,12 +15,10 @@ After observing our Mentorship Eligibility database, we see that:
 * We have 60 employees with potential errors on thier employment duration. If not errors, these employees of retiring age have began employment after Januray 1st of 1999.
 
 ## Summary:
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 As we can see from our "Retiring Titles" database, we are expected to fill 72,458 roles within the company, due to the "Silver Tsunami". 
 
 <img width="194" alt="Screen Shot 2022-01-03 at 1 14 50 AM" src="https://user-images.githubusercontent.com/91990957/147903694-7e72cc65-6218-43e2-a1b2-c5490c4bb1cc.png">
 
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Based on our Retiring Titles & Mentorship Eligibility databases, we do have enough qualified employees to begin mentonship for next generation employees, but it should be noted that there is an extremely low number of Managers per department. There should be an increased focus in Mentorship for Managerial level roles in order to increase count of employee qualified for Senior level positions.   
+Based on our Retiring Titles & Mentorship Eligibility databases, we do have enough qualified employees to begin mentonship for next generation employees, but it should be noted that based on our Manager Info database (pictured below), there is an extremely low number of Managers per department. There should be an increased focus in Mentorship for Managerial level roles in order to increase count of employee qualified for Senior level positions.   
 
 <img width="763" alt="Screen Shot 2022-01-03 at 1 22 47 AM" src="https://user-images.githubusercontent.com/91990957/147904098-2a67ece3-12db-4b1c-b3eb-386f374a5f5b.png">
